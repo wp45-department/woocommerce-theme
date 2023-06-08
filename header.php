@@ -39,7 +39,7 @@
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar">
-      <?php wp_nav_menu(array('theme_location'=>'primary-menu')); ?>
+      <?php wp_nav_menu(array('theme_location'=>'secondory-menu')); ?>
         <!-- <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
